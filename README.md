@@ -3,15 +3,10 @@
 Hi there, I'm <a href="https://michaeltolchinsky.github.io/" target="_blank" rel="noreferrer">Michael</a> 👋
 </h3>
 
-<h2 align="center">
-I'm a 1st year cs student and Full-Stack Web Developer.
-</h2> 
+### 💻 &nbsp;About Me 
 
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/michaeltol/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Michael tol | LinkedIn" width="21px"/></a>
-</br>
-</br>
+- 🤔 &nbsp; Exploring new technologies and developing software.
+- 🎓 &nbsp; 1st year Computer Science Student at The Academic College of Tel-Aviv, Yaffo.
 
 ## 🌱 I'm currently learning
 
@@ -20,31 +15,45 @@ I'm a 1st year cs student and Full-Stack Web Developer.
 - React Rtk-Toolkit
 - Styled Components  
 
-## 💼 Technical Skills
+### 🛠 &nbsp;Tech Stack
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&color=1C66E8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+- 🌐 &nbsp;
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+- 🛢 &nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-</br>
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+## My Stats
+<p>
+<a href="https://github.com/MichaelTolchinsky">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelTolchinsky&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
+
+##  🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/michaeltol/"><img src="https://img.shields.io/badge/-Michael%Tolchinsky-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mishatolchinski@gamil.com"><img src="https://img.shields.io/badge/-mishatolchinski@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
-</br>
-
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-
-## 📈 GitHub Stats 
+<!-- ## 📈 GitHub Stats 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MichaelTolchinsky)](https://github.com/MichaelTolchinsky)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelTolchinsky&layout=compact)](https://github.com/MichaelTolchinsky)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelTolchinsky&layout=compact)](https://github.com/MichaelTolchinsky) -->
+
+
