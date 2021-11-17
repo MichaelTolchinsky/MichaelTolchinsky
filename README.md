@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Michael</a> 👋
+Hi there, I'm <a href="https://michaeltolchinsky.github.io/" target="_blank" rel="noreferrer">Michael</a> 👋
 </h3>
 
 <h2 align="center">
@@ -12,7 +12,6 @@ I'm a 1st year cs student and Full-Stack Web Developer.
 <a href="https://www.linkedin.com/in/michaeltol/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Michael tol | LinkedIn" width="21px"/></a>
 </br>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🌱 I'm currently learning
 
@@ -25,6 +24,7 @@ I'm a 1st year cs student and Full-Stack Web Developer.
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&color=1C66E8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
