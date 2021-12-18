@@ -53,6 +53,6 @@ Hi there, I'm <a href="https://michaeltolchinsky.github.io/" target="_blank" rel
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/michaeltol"><img src="https://img.shields.io/badge/-Michael%20Tolchinsky-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a target="_blank" href="mailto:mishatolchinski@gamil.com"><img src="https://img.shields.io/badge/-mishatolchinski@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/michaeltol" target="_blank"><img src="https://img.shields.io/badge/-Michael%20Tolchinsky-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mishatolchinski@gamil.com" target="_blank"><img src="https://img.shields.io/badge/-mishatolchinski@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
