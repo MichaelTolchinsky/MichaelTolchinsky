@@ -5,7 +5,7 @@ Hi there, I'm <a href="https://michaeltolchinsky.github.io/" target="_blank" rel
 
 ### 🚀 &nbsp;About Me 
 
-- 🎓 &nbsp; 1st year Computer Science Student at The Academic College of Tel-Aviv, Yaffo.
+- 🎓 &nbsp; 1st year Computer Science Student at The Open University.
 - 💻 &nbsp; Graduate with honors of the first post-IDF "Combat Soldiers Hi-Tech Program" course in Sela College.
 - 🤔 &nbsp; Exploring new technologies and developing software.
 
