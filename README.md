@@ -35,9 +35,11 @@ Hi there, I'm <a href="https://michaeltolchinsky.github.io/" target="_blank" rel
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Clion](https://img.shields.io/badge/-Clion-333333?style=flat&logo=clion&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 
