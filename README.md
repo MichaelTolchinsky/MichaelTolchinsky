@@ -14,7 +14,6 @@ Hi there, I'm <a href="https://michaeltolchinsky.github.io/" target="_blank" rel
 - React-Typescript
 - Nodejs-Typescript
 - React Rtk-Toolkit
-- Styled Components  
 
 ### 🛠 &nbsp;Tech Stack
 
