@@ -27,9 +27,9 @@ Hi there, I'm <a href="https://michaeltolchinsky.github.io/" target="_blank" rel
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 - 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![SQLServer](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=microsoft-sql-server)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -39,7 +39,7 @@ Hi there, I'm <a href="https://michaeltolchinsky.github.io/" target="_blank" rel
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Clion](https://img.shields.io/badge/-Clion-333333?style=flat&logo=clion&logoColor=007ACC)
+  ![Clion](https://img.shields.io/badge/-Clion-333333?style=flat&logo=clion)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 
