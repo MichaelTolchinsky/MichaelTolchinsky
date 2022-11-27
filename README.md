@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Hi there, I'm <a href="https://portfolio-michaeltolchinsky.vercel.app/" target="_blank" rel="noreferrer">Michael</a> 👋
+Hi there, I'm Michael 👋
 </h3>
 
 ### 🚀 &nbsp;About Me 
