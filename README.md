@@ -5,26 +5,23 @@ Hi there, I'm Michael 👋
 
 ### 🚀 &nbsp;About Me 
 
-- 🎓 &nbsp; 1st year Computer Science Student at The Open University.
-- 💻 &nbsp; Graduate with honors of the first post-IDF "Combat Soldiers Hi-Tech Program" course in Sela College.
-- 🤔 &nbsp; Exploring new technologies and developing software.
+I am a software engineer at Zoominfo, where I work on building scalable and reliable web applications.</br>
+I am passionate about using technology to solve real-world problems.
 
 ## 🌱 I'm currently learning
 
-- React-Typescript
-- Nodejs-Typescript
-- React Rtk-Toolkit
+- 🌐 &nbsp;
+  ![Golang](https://img.shields.io/badge/-golang-333333?style=flat&logo=go)
 
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![.Net](https://img.shields.io/badge/-Dotnet-333333?style=flat&logo=dotnet)
   ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 - 🛢 &nbsp;
@@ -37,18 +34,13 @@ Hi there, I'm Michael 👋
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
-  ![Heroku](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Clion](https://img.shields.io/badge/-Clion-333333?style=flat&logo=clion)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 
 ## My Stats
 <p>
 <a href="https://github.com/MichaelTolchinsky">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelTolchinsky&show_icons=true&theme=react" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MichaelTolchinsky&theme=react&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MichaelTolchinsky&theme=react&layout=compact" />
 </a>
 </p>
 
