@@ -40,7 +40,7 @@ I am passionate about using technology to solve real-world problems.
 <p>
 <a href="https://github.com/MichaelTolchinsky">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelTolchinsky&show_icons=true&theme=react" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MichaelTolchinsky&theme=react&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MichaelTolchinsky&theme=react&layout=compact&langs_count=8&hide=scss,cmake,vue" />
 </a>
 </p>
 
