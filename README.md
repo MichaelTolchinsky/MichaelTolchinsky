@@ -8,11 +8,6 @@ Hi there, I'm Michael 👋
 I am a software engineer at Zoominfo, where I work on building scalable and reliable web applications.</br>
 I am passionate about using technology to solve real-world problems.
 
-## 🌱 I'm currently learning
-
-- 🌐 &nbsp;
-  ![Golang](https://img.shields.io/badge/-golang-333333?style=flat&logo=go)
-
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
